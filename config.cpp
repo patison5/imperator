@@ -1,3 +1,4 @@
 class Test {
-	name = "hello world"
+	name = "world is good"
+	surname = "enother thing"
 }
